@@ -7,7 +7,7 @@ The password can have between 8 and 128 characters.
 
 The password draws from a pool of character sets including Special Characters, Numeric Characters, Lowercase Characters, and Uppercase Characters.
 
-The password is then displayed for the used to copy.
+The password is then displayed for the user to copy.
 
 https://soraticat.github.io/Random-Password-Generator/
 
